@@ -6,7 +6,7 @@ Scarica le slide da qui: Coming soon!
 
 DOI: Coming soon!
 
-Questa repository contiene una serie di video tutorial sull'utilizzo di <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" target="_blank" alt="Bootstrap v4.6.x">Bootstrap v4.6.x</a> e di <a href="https://pages.github.com/" target="_blank" alt="GitHub Pages">GitHub</a> creati appositamente per il corso tenuto Digital Humanities e Patrimonio Culturale (1)(LM).
+Questa repository contiene una serie di video tutorial sull'utilizzo di <a href="https://getbootstrap.com/docs/4.6/getting-started/introduction/" target="_blank" alt="Bootstrap v4.6.x">Bootstrap v4.6.x</a> e di <a href="https://pages.github.com/" target="_blank" alt="GitHub Pages">GitHub</a> creati appositamente per il corso Digital Humanities e Patrimonio Culturale (1)(LM).
 
 Prova a riprodurre tutti gli step mostrati nei video per comprendere meglio l'utilizzo di Bootstrap e GitHub:
 
