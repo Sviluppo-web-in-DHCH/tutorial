@@ -10,7 +10,7 @@ Questo repository contiene una serie di video tutorial sull'utilizzo di <a href=
 
 Prova a riprodurre tutti gli step mostrati nei video per comprendere meglio l'utilizzo di Bootstrap e GitHub:
 
-<b>https://martinadellobuono.github.io/sviluppo-web-tutorial-dhch/</b>
+<b>https://sviluppo-web-dhch.github.io/tutorial/</b>
 
 GLHF!
 
