@@ -8,11 +8,15 @@ a {color: #F7F6F4;}
 
 /* background */
 .bg-pink {background: #A75460;}
+.bg-yellow {background: #D5DF2A;}
 .bg-violet {background: #959CBD;}
 .bg-white {background: #F7F6F4;}
 
+/* logo */
+.logo {height: 10vh;}
+
 /* container video */
-.container-video {height: 30vh; overflow-y: scroll; overflow-x: none;}
+.container-video {height: 70vh; overflow-y: scroll; overflow-x: none;}
 .container-video::-webkit-scrollbar {width: 8px; height: 8px;}
 .container-video::-webkit-scrollbar-thumb {background: linear-gradient(13deg, #f9d4ff 14%,#c7ceff 64%); border-radius: 10px;}
 .container-video::-webkit-scrollbar-thumb:hover{background: linear-gradient(13deg, #c7ceff 14%,#f9d4ff 64%);}
